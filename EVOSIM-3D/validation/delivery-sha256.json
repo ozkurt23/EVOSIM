@@ -1,0 +1,16 @@
+{
+  "baslat.sh": "d7a23762aee44b126165d9492bd56fced9baaf3b85a13d5ffaa3a4c6fca48307",
+  "README.md": "15d5fc1ccf94c916288f2d6b1a6a31283ccbd9b6348aa5b740f70603d05d0b5a",
+  "Unity/Assets/Scripts/SimulationClock.cs": "2ebcac29e1d2d1523537c3fcc119ec144e693107f0ec0fd8a763bc7146c8da4a",
+  "Unity/Assets/Scripts/CreatureAppearance.cs": "3ae02a10458ba749031ac38f973c7f02c091dd83244b914cadf6aad0e2179f28",
+  "Unity/Assets/Scripts/CoreTerrainView.cs": "bb52bbf346f5e2c5d77ed63f0035ad4b373c5a102078a266922b8c9b075770a0",
+  "Unity/Assets/Scripts/ObserverControls.cs": "38013995c9bd45ee2433bf6396e6dc9f214264969cb17364791e738523ac3e3a",
+  "Unity/Assets/Scripts/LiveCapture.cs": "48f53c45890dac4c2c8f98d6790b407ac34dcfaa16eebe357585f037aa0740aa",
+  "Unity/Assets/Scripts/EvoSimBridge.cs": "6884469149e6db9e5a725b2aa16ba79967405401ff34f34ca121e002225c2f4b",
+  "Unity/Assets/Scripts/CanopyVisibility.cs": "4a690991ce3dd0440ce2502adf14b4f421b36a3fb6cea301f2d4cc44c714a9b3",
+  "Unity/Assets/Scripts/CoreResourcesView.cs": "05c82d50112ded8f19e77963d271cfa45bacd497671dd98c4ca2da75f0137ced",
+  "Unity/Assets/Editor/ArtImport.cs": "748fa96191afa97a4654bf0bce6d3b5e5d9ee3bea4ea602a88e8630a745e1084",
+  "Unity/Assets/Editor/EvoSimValidation.cs": "d970257c9f0097ab1c86b378433f901527de019bf5e117d9f0529d0b37fa6d2d",
+  "Unity/Assets/Editor/EvoSimSceneBuilder.cs": "1a4528b250f68f8347e29194f0bc19c73002e52d688d5b2291b94fffd93c09cf",
+  "Build/EVOSIM-3D.x86_64": "8027f7d1f9ae7dacfc826fb218adcc1ae7464af098a8a59397e7531c0f7ec0bc"
+}

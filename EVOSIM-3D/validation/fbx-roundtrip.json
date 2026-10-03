@@ -1,0 +1,97 @@
+[
+  {
+    "asset": "Carnivore_A.fbx",
+    "meshes": 1,
+    "vertices": 342,
+    "triangles": 640,
+    "materials": [
+      "red",
+      "eye"
+    ],
+    "groundOrigin": true
+  },
+  {
+    "asset": "Herbivore_A.fbx",
+    "meshes": 1,
+    "vertices": 324,
+    "triangles": 608,
+    "materials": [
+      "blue",
+      "eye.001"
+    ],
+    "groundOrigin": true
+  },
+  {
+    "asset": "Reeds_A.fbx",
+    "meshes": 1,
+    "vertices": 780,
+    "triangles": 1456,
+    "materials": [
+      "grass_dark",
+      "grass_light"
+    ],
+    "groundOrigin": true
+  },
+  {
+    "asset": "Rock_A.fbx",
+    "meshes": 1,
+    "vertices": 84,
+    "triangles": 160,
+    "materials": [
+      "rock",
+      "grass_dark.001"
+    ],
+    "groundOrigin": true
+  },
+  {
+    "asset": "Shrub_A.fbx",
+    "meshes": 1,
+    "vertices": 987,
+    "triangles": 890,
+    "materials": [
+      "leaf_dark",
+      "leaf",
+      "leaf_light"
+    ],
+    "groundOrigin": true
+  },
+  {
+    "asset": "Tree_Conifer_A.fbx",
+    "meshes": 1,
+    "vertices": 14340,
+    "triangles": 14472,
+    "materials": [
+      "bark",
+      "pine",
+      "leaf_dark.001",
+      "pine_light"
+    ],
+    "groundOrigin": true
+  },
+  {
+    "asset": "Tree_Oak_A.fbx",
+    "meshes": 1,
+    "vertices": 7764,
+    "triangles": 7200,
+    "materials": [
+      "bark.001",
+      "leaf_dark.002",
+      "leaf.001",
+      "leaf_light.001"
+    ],
+    "groundOrigin": true
+  },
+  {
+    "asset": "Tree_Poplar_A.fbx",
+    "meshes": 1,
+    "vertices": 7764,
+    "triangles": 7200,
+    "materials": [
+      "bark.002",
+      "leaf_dark.003",
+      "leaf.002",
+      "leaf_light.002"
+    ],
+    "groundOrigin": true
+  }
+]

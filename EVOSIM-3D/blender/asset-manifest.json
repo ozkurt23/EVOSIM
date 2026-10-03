@@ -1,0 +1,16 @@
+{
+  "assets": {
+    "Tree_Oak_A": 1050,
+    "Tree_Poplar_A": 1050,
+    "Tree_Conifer_A": 1812,
+    "Rock_A": 2,
+    "Shrub_A": 136,
+    "Reeds_A": 26,
+    "Herbivore_A": 10,
+    "Carnivore_A": 11
+  },
+  "seed": 42,
+  "cameraElevationDegrees": 36.02718679607422,
+  "orthographic": true,
+  "note": "Art validation scene, not a running Core simulation"
+}

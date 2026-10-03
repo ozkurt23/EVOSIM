@@ -1,0 +1,1030 @@
+Aşağıdaki metni, başka bir yapay zekâya veya bir oyun sanatçısına doğrudan verebileceğin bir **görsel tasarım şartnamesi** olarak hazırladım. Görsellerdeki tasarımı; kamera, arazi, bitki örtüsü, su, ışık, hayvanlar, yapılar ve arayüz olarak ayrı ayrı açıklıyorum. Son bölümde de bunları tek bir üretim talimatında birleştiriyorum.
+
+**Temel tespit:** Bu görüntülerin karakterini yalnızca yeşil renkler veya güzel ağaçlar oluşturmuyor. Asıl etki; **belirgin yüksekliği olan arazi parçaları, uzun ve hacimli bitki örtüsü, yoğunluk bakımından farklılaşan doğal alanlar, güçlü yüzey ayrımı ve bütün nesnelerde ortak bir ışık düzeninin** birlikte çalışmasından geliyor.
+
+Buradaki renk kodları, kamera açıları ve üretim ölçüleri, görüntülere dayanarak önerdiğim yaklaşık değerlerdir. Oyunun kaynak dosyalarından alınmış teknik bilgiler değildir. Özellikle 7. görsel çok küçük olduğu için ince detayları hakkında kesin yorum yapmıyorum.
+
+---
+
+# 1. Genel sanat yönü
+
+## 1.1. Dünyanın vermesi gereken his
+
+Dünya, yukarıdan bakılan **küçük, yaşayan ve elle düzenlenmiş bir doğa maketi** gibi görünmeli.
+
+Görsel etkiyi şu sözcüklerle tarif edebiliriz:
+
+- Hacimli.
+- Organik.
+- Yoğun ama okunaklı.
+- Doğal malzemeleri belirgin.
+- Hafif stilize.
+- Özenle boyanmış.
+- Minyatür.
+- Sakin.
+- Ekolojik çeşitliliği zengin.
+
+Arazinin, ağaçların ve suyun kendilerine özgü kütlesi bulunuyor. Bir ağaca baktığımızda yalnızca yeşil bir yüzey görmüyoruz: gövdesini, tepesini, farklı yaprak kümelerini ve bu kümelerin birbirini gölgelemesini okuyabiliyoruz.
+
+Benzer şekilde bir kara parçasının:
+
+1. Üstte çimenli yüzeyi,
+2. Kenarda ince bitki sınırı,
+3. Altında koyu toprak veya kaya kesiti,
+4. En altta suyla temas çizgisi
+
+ayrı ayrı seçiliyor.
+
+Bu katmanlar, küçük ölçekte bile dünyanın üç boyutlu algılanmasını sağlıyor.
+
+## 1.2. Stilizasyonun seviyesi
+
+Nesnelerin büyük biçimleri kolay anlaşılacak kadar sadeleştirilmiş; yüzeylerinde ise yakından bakıldığında görülen doğal ayrıntılar var.
+
+Örneğin:
+
+- Kaya, kolay okunan birkaç büyük yüzeyden oluşuyor; yüzeyi tamamen pürüzsüz değil.
+- Ağaç, uzaktan tek bir güçlü siluet olarak okunuyor; yakından yaprak kümeleri ayrışıyor.
+- Panda, çok küçükken bile siyah-beyaz kütle dağılımıyla tanınıyor.
+- Çiçekler tek tek modellenmiş büyük dekorlar gibi öne çıkmıyor; çayırın içinde renk dağılımı oluşturuyor.
+
+**Büyük biçim önce okunmalı; küçük ayrıntı daha sonra keşfedilmeli.**
+
+## 1.3. Görsel gerçekçilik nasıl kuruluyor?
+
+Gerçekçilik, çok yüksek ayrıntılı fotoğraf dokuları üzerinden kurulmamış görünüyor. Daha çok şu ilişkiler üzerinden kuruluyor:
+
+- Nesnelerin zemine oturması.
+- Işığın tüm nesnelerde tutarlı davranması.
+- Ağaçların birbirini örtmesi.
+- Su altındaki nesnelerin daha az belirgin görünmesi.
+- Yüksek araziden alçak araziye düşen gölgeler.
+- Kuru, ıslak, yanmış ve canlı yüzeylerin farklı malzeme özellikleri.
+- Aynı bitkinin farklı boyut, biçim ve renk varyasyonlarının bulunması.
+
+---
+
+# 2. Kamera ve bakış açısı
+
+## 2.1. Görsellerin kamera dili
+
+Gönderilen görüntülerde kamera **belirgin biçimde eğik, izometrik veya izometriğe yakın bir bakış** kullanıyor.
+
+Aynı anda şunları görebiliyoruz:
+
+- Ağaç tepeleri.
+- Gövdelerin yan yüzleri.
+- Hayvanların sırtları ve yanları.
+- Arazinin üst yüzeyi.
+- Arazinin dik kenarları.
+- Şelalelerin düşey uzunluğu.
+- Yapıların çatıları ve yan yüzleri.
+
+Bu nedenle bu görüntüleri yeniden üretirken yalnızca tepeden görülen yuvarlak ağaç görselleri kullanmak, referanstaki görünümü oluşturmaz.
+
+## 2.2. Perspektif karakteri
+
+Görüntülerde perspektif etkisi sınırlı. Uzak ve yakın nesneler arasında dramatik boyut farkı bulunmuyor.
+
+Bunun üretim karşılığı:
+
+> Ortografik veya çok zayıf perspektifli bir kamera kullan. Arazinin iki yatay ekseni ekranda çapraz yönlere uzansın. Düşey nesneler ekranda yukarı doğru yükselsin.
+
+Başlangıç denemesi için:
+
+- Zemine göre kamera yükselişi: yaklaşık **35–55 derece**.
+- Yatay dönüş: yaklaşık **45 derece**.
+- Perspektif: ortografik veya çok düşük perspektif bozulması.
+
+Bunlar ölçülmüş değerler değil; görsel dili yakalamaya yönelik başlangıç önerileridir.
+
+## 2.3. EVOSIM açısından önemli kamera tercihi
+
+Önceki “neredeyse tam tepeden, 85–90 derece” isteğiyle bu referansların uzun ağaç görünümü arasında gerçek bir görsel fark var.
+
+Kamera zemine göre 85 dereceye geldiğinde, düşey bir gövdenin ekrandaki görünen uzunluğu çok azalır. Uzun ağaç bile büyük ölçüde tepesinden görülen bir taç gibi görünür.
+
+Dolayısıyla başka yapay zekâya şu ayrım açıkça söylenmeli:
+
+- **Referanstaki görünüm hedefleniyorsa:** eğik kamera ve görünen düşey hacim kullanılmalı.
+- **Neredeyse tam tepeden kamera korunacaksa:** ağaç yüksekliği, hafif eğik çizilmiş sprite’lar ve belirgin gölgelerle stilize biçimde anlatılmalı. Sonuç referansın bir uyarlaması olur.
+
+Bu karar, ağaç çiziminden önce verilmelidir.
+
+---
+
+# 3. Arazi geometrisi: dünyanın en önemli görsel temeli
+
+## 3.1. Arazi, yüksekliği olan parçalar halinde
+
+Özellikle **3, 4, 5, 8 ve 9. görsellerde** arazi açıkça katmanlı.
+
+Kara, kenarı olmayan düz bir renk alanı değil. Su veya daha alçak zemin üzerinde yükselen bir platform gibi okunuyor.
+
+Her arazi parçası şu bileşenleri taşımalı:
+
+### A. Üst yüzey
+
+- Çimen, toprak, kum, kar veya kül malzemesi.
+- Hafif renk farklılıkları.
+- Seyrek küçük yüzey ayrıntıları.
+- Yer yer tamamen açık kalan alanlar.
+
+### B. Üst kenar
+
+- İnce, düzensiz bir çim veya toprak dudağı.
+- Bazı noktalarda dışarı taşan otlar.
+- Kesintisiz ama kusursuz cetvel çizgisi olmayan bir sınır.
+
+### C. Yan kesit
+
+- Üst yüzeye göre belirgin biçimde daha koyu.
+- Düşey veya çok dik yüzey.
+- Toprak katmanı, kaya kırıkları ve küçük yüzey girintileri.
+- Bazı yerlerde üstten sarkan bitkiler.
+
+### D. Alt temas
+
+- Su kenarında koyu temas gölgesi.
+- Yerine göre ince köpük veya açık kıyı çizgisi.
+- Zemine basan kaya ve kara parçalarında dar koyu çizgi.
+
+## 3.2. Kıyı biçiminin geometrik karakteri
+
+Kıyılar tamamen serbest çizilmiş, sürekli kıvrılan çizgiler gibi değil. Pek çok yerde **ızgara tabanlı bir dünyanın basamaklı konturları** hissediliyor.
+
+Özellikle:
+
+- 3. görselde dar su kanalının köşeleri.
+- 4. görselde hayvanların bulunduğu kara çıkıntıları.
+- 5. görselde kurak platformların sınırları.
+- 9. görselde bambulu adacığın dış hattı.
+
+Burada uygulanması gereken yaklaşım:
+
+> Büyük ölçekte modüler, köşeli veya basamaklı arazi sınırı oluştur; küçük ölçekte kenar kırıkları, bitki örtüsü ve malzeme dokusuyla bu sınırı doğallaştır.
+
+Her kıyıyı aşırı yuvarlamak referansın arazi karakterini zayıflatır.
+
+## 3.3. Yükseklik değişimleri
+
+3. görselde su, farklı seviyeler arasından geçiyor. Kısa şelaleler, arazinin yükseklik bilgisini görünür hale getiriyor.
+
+Yükseklik yalnızca renk farkıyla anlatılmamalı. Şu üç ipucu birlikte bulunmalı:
+
+- Görünen yan duvar.
+- Aşağı seviyeye düşen gölge.
+- Su varsa düşey akış veya şelale.
+
+## 3.4. Arazi yüzeyi çok büyük desenlerle doldurulmamalı
+
+Çimenin üzerinde renk varyasyonu var; ancak zeminin tamamı büyük, yumuşak, konsantrik lekelerden oluşmuyor.
+
+İyi bir dağılım:
+
+- Büyük ölçekte biyom farkı.
+- Orta ölçekte nem, ot yoğunluğu ve toprak farkı.
+- Küçük ölçekte yaprak, çiçek, çim ve taş ayrıntısı.
+
+Zemin gürültüsünün ölçeği, ağaçların ve hayvanların ölçeğiyle tutarlı olmalı.
+
+---
+
+# 4. Çimen, toprak ve biyomların yüzey dili
+
+## 4.1. Sağlıklı çimen
+
+Özellikle 1 ve 4. görsellerde:
+
+- Orta açıklıkta yeşil ana yüzey.
+- Sarıya kayan güneş alan bölgeler.
+- Daha koyu ve soğuk yeşil nemli bölgeler.
+- Dağınık açık renk çiçek kümeleri.
+- Bazı yerlerde kısa ot, bazı yerlerde uzun ot.
+
+Çimenin tamamı aynı yoğunlukta değil. Hayvanların bulunduğu açıklıklar, orman kenarlarından daha sakin ve daha boş.
+
+## 4.2. Orman zemini
+
+Orman altında:
+
+- Daha koyu yeşiller.
+- Daha az doğrudan ışık.
+- Daha sık çalı ve küçük bitki.
+- Ağaç gövdelerinin diplerinde koyu temas bölgeleri.
+- Yer yer görünen kahverengi toprak.
+
+Ormanın altına, açıklıktaki çimen dokusunun aynısını aynı parlaklıkta koymak uygun olmaz.
+
+## 4.3. Kuru ve bozulmuş arazi
+
+3 ve 5. görsellerde kuru alanların görünümü farklı:
+
+- 3. görsel: koyu kahverengi, daha ağır ve verimsiz görünen yüzey.
+- 5. görsel: açık bej, çatlamış, kurumuş yüzey.
+- Kenarlarda daha koyu toprak duvarları.
+- Seyrek yapraksız ağaçlar.
+- Çok az bitki örtüsü.
+- Geniş boşluklar.
+
+Kuraklık yalnızca çimeni kahverengiye boyamakla anlatılmıyor. **Yüzey dokusu, bitki yoğunluğu ve nesne çeşitliliği de değişiyor.**
+
+## 4.4. Karlı alanlar
+
+11. görselde kar:
+
+- Arazinin tamamını aynı beyaz yüzeyle kaplamıyor.
+- Parçalı lekeler halinde bulunuyor.
+- Bazı ağaçların üst yüzlerinde birikiyor.
+- Bitkiler ve taşlar kısmen görünmeye devam ediyor.
+- Yeşil, beyaz, gri ve sarımsı bitki tonları birlikte bulunuyor.
+
+Karın kenarı yer yer modüler arazi geometrisini izliyor; yer yer yüzey üzerinde yumuşak bir kaplama gibi görünüyor.
+
+---
+
+# 5. Ağaç tasarımı: uzunluk, hacim ve siluet
+
+## 5.1. Bütün ağaçlara ortak kurallar
+
+Ağaçlar üç ayrı bölüm olarak tasarlanmalı:
+
+1. **Kök veya gövde tabanı:** zemine oturan bağlantı.
+2. **Gövde ve dallanma:** yüksekliği ve büyüme yönünü anlatan yapı.
+3. **Yaprak tacı:** birkaç büyük hacmin bir araya gelmesi.
+
+Taç tek bir küre veya tek bir disk gibi çizilmemeli. Birbirini örten yaprak kütleleri olmalı.
+
+Her ağaçta şunlar okunabilmeli:
+
+- Genel boy.
+- Taç genişliği.
+- Ana gövdenin yönü.
+- Güneş alan taraf.
+- Gölgede kalan alt ve iç bölgeler.
+- Asimetrik dış kontur.
+
+## 5.2. Uzun iğne yapraklı ağaçlar
+
+Özellikle 1 ve 11. görsellerde uzun, koyu yeşil ağaçlar görülüyor.
+
+Karakterleri:
+
+- Belirgin düşey eksen.
+- Yukarı doğru daralan siluet.
+- Aşağı katmanlarda daha geniş dallar.
+- Tek bir üçgen yerine birbiri üstüne binen düzensiz dal katmanları.
+- Karanlık iç kısım.
+- Dal uçlarında daha aydınlık yeşil.
+- Bazı ağaçlarda gövdenin alt kısmının görünmesi.
+
+Üretim tarifi:
+
+> Uzun, hafif asimetrik, katmanlı kozalaklı ağaç. Dallar yatay halkalar halinde kusursuz dizilmesin. Farklı katmanların genişliği ve yönü değişsin. Tepe ince; orta ve alt bölüm yoğun olsun. İç hacim derin yeşil, dış dal uçları daha açık ve sıcak yeşil olsun.
+
+## 5.3. Geniş yapraklı ağaçlar
+
+1, 2, 9 ve 10. görsellerde farklı geniş yapraklı biçimler var.
+
+Özellikleri:
+
+- Bazıları yuvarlak ve yayvan.
+- Bazıları daha uzun ve dar.
+- Taç, birkaç ana yaprak kütlesinden oluşuyor.
+- Dış konturda küçük çıkıntılar var.
+- Taç içinde koyu yarıklar ve boşluklar bulunuyor.
+- Yaprak ayrıntısı, büyük kütlelerin okunmasını bozmayacak yoğunlukta.
+
+Ağaçların tamamı aynı boyda ve aynı yeşilde olmamalı.
+
+## 5.4. Sonbahar ağaçları ve renkli çalılar
+
+9. görselde:
+
+- Uzun, turuncu bir ağaç.
+- Daha geniş, kırmızı yaprak kütleleri.
+- Açık çiçekli bir çalı.
+- Yeşil bambular.
+
+Bu kompozisyonun etkisi, yalnızca renk farkından gelmiyor. **Dört farklı siluet ve yükseklik** birlikte kullanılıyor.
+
+Renkli ağaçlar bütün haritaya eşit yayılmamalı. Belirli biyomlarda veya küçük gruplarda vurgu olarak yer almalı.
+
+## 5.5. Palmiyeler
+
+2 ve 10. görsellerdeki tropik alanlarda:
+
+- İnce ve belirgin gövdeler.
+- Bazı gövdelerde hafif eğim.
+- Gövdenin tepesinden dışa açılan uzun yapraklar.
+- Yapraklar tek parça yıldız simgesi gibi değil; sarkma ve kıvrılma hissi taşıyor.
+- Taç altında görülebilen boşluklar var.
+- Farklı yükseklikte palmiyeler birbirinin önüne ve arkasına yerleşiyor.
+
+## 5.6. Bambu
+
+9. görsel bu konuda en güçlü referans.
+
+Bambu kümeleri:
+
+- Çok sayıda ince, uzun gövdeden oluşuyor.
+- Gövdeler sarı-yeşil.
+- Yer yer boğumlar seçiliyor.
+- Yapraklar gövde boyunca farklı yüksekliklerde bulunuyor.
+- Bütün gövdeler aynı hizada bitmiyor.
+- Küme hem geçirgen hem yoğun: arada gövdeler ve arka plan görülebiliyor.
+- Zeminde çimen ve düşük bitkiler bulunuyor.
+
+Bambu kümesinin alt kısmını tamamen koyu, tek parça bir lekeyle kapatmamak gerekiyor.
+
+---
+
+# 6. Bitki örtüsünün yerleşimi
+
+## 6.1. Doğa kümeler halinde oluşuyor
+
+Referanslarda bitkiler düzenli aralıklarla dağıtılmış dekorlar gibi durmuyor.
+
+Bir alanın doğal görünmesi için:
+
+- Bazı yerlerde sık orman.
+- Bazı yerlerde seyrek ağaçlar.
+- Bazı yerlerde açık çayır.
+- Suya yakın yerlerde saz ve nemli bitkiler.
+- Kayaların çevresinde küçük bitki kümeleri.
+- Orman kenarında çalı ve genç ağaçlar
+
+birlikte bulunmalı.
+
+**Yoğunluk farkı, nesne çeşitliliği kadar önemli.**
+
+## 6.2. Orman sınırı
+
+Orman ile açık çimen arasında tek, keskin bir çizgi yok.
+
+Geçiş sırası yaklaşık şöyle:
+
+> Büyük ağaçlar → küçük ağaçlar → çalılar → uzun otlar → kısa çimen → açık alan.
+
+Bu geçiş her yerde aynı kalınlıkta olmamalı. Bazı noktalarda ağaçlar doğrudan açıklığa çıkabilir; bazı noktalarda geniş bir çalılık sınırı bulunabilir.
+
+## 6.3. Yükseklik katmanları
+
+İyi bir bitki grubu en az üç ölçek içermeli:
+
+| Katman | Örnekler | Görsel işlev |
+|---|---|---|
+| Yüksek | Uzun ağaçlar, palmiyeler, bambular | Siluet ve düşey hacim |
+| Orta | Küçük ağaçlar, çalılar, yoğun sazlar | Boşlukları bağlama |
+| Alçak | Çimen, çiçek, eğrelti, yer örtüsü | Zemine doğallık verme |
+
+Her alanı yalnızca yüksek ağaçlarla doldurmak, referanstaki zenginliği oluşturmaz.
+
+---
+
+# 7. Su tasarımı
+
+## 7.1. Su tek renkli değil
+
+Görseller arasında farklı su karakterleri var:
+
+- 1. görselde parlak, açık mavi ve güçlü ışık kırıntıları taşıyan nehir.
+- 2. görselde turkuaz, su altını gösteren tropik kıyı.
+- 4 ve 9. görsellerde daha koyu, sakin mavi su.
+- 11. görselde soğuk, derin mavi su ve buzlu yüzeyler.
+
+Tek bir mavi rengi bütün biyomlara uygulamak yerine, suyun rengi çevresine ve derinlik hissine göre değişmeli.
+
+## 7.2. Su yüzeyinin katmanları
+
+Su en az şu görsel bileşenleri taşımalı:
+
+1. Temel renk.
+2. Büyük ölçekli, düşük kontrastlı yüzey dalgalanması.
+3. Daha küçük parlak yansıma çizgileri.
+4. Kıyıya yakın sığlık veya temas çizgisi.
+5. Gereken yerlerde köpük.
+6. Su altı nesneleri.
+7. Su üstündeki bitkiler.
+
+Bu katmanların hepsi her yerde aynı yoğunlukta görünmemeli.
+
+## 7.3. Parlamalar
+
+1. görseldeki parlamalar:
+
+- Küçük.
+- Kırık ve düzensiz.
+- Beyaz veya çok açık mavi.
+- Bazıları kısa çizgi, bazıları küçük leke.
+- Suyun tamamını örtmeyecek yoğunlukta.
+
+Geniş, sabit beyaz çizgiler veya aynı yönde eşit aralıklı işaretler doğal etkiyi zayıflatır.
+
+## 7.4. Kıyı köpüğü
+
+2. görselde köpük, kıyı boyunca ince ve kesintili bir sınır oluşturuyor.
+
+Köpük:
+
+- Kıyının şeklini takip etmeli.
+- Her yerde aynı kalınlıkta olmamalı.
+- Köşelerde ve dalga temas bölgelerinde yoğunlaşabilmeli.
+- Kara ile su arasındaki sınırı açıklamalı.
+
+## 7.5. Su altı ayrıntıları
+
+2. görseldeki mercanlar:
+
+- Su yüzeyinin altında kalıyor.
+- Soluk pembe, krem, gri ve açık mavi tonlarda.
+- Bazıları yuvarlak, bazıları dallanan biçimde.
+- Kümeler halinde.
+- Su üstü nesnelerden daha düşük kontrastlı.
+- Suyun rengiyle kısmen örtülmüş.
+
+Su altındaki nesne, karadaki nesneyle aynı keskinlikte ve aynı doygunlukta çizilmemeli.
+
+## 7.6. Şelaleler
+
+Şelale bileşenleri:
+
+- Üst kenarda dar akış başlangıcı.
+- Aşağı doğru açık mavi-beyaz düşüş.
+- Düşüş boyunca şerit ve parçalanma.
+- Alt noktada köpük veya açık renk çarpma bölgesi.
+- Çevrede küçük su hareketleri.
+
+Şelale, arazinin gerçek seviye farkını açıklayan bir unsur olarak kullanılmalı.
+
+---
+
+# 8. Sulak alanlar ve sazlıklar
+
+1, 4, 6 ve 10. görsellerde sulak alanlar, su ve kara arasında ayrı bir biyom gibi davranıyor.
+
+Temel özellikleri:
+
+- Sığ suyun içinde bitki kümeleri.
+- Çimenli küçük kara çıkıntıları.
+- Uzun sazlar.
+- Alçak, geniş yapraklı bitkiler.
+- Yer yer nilüfer benzeri yüzey yaprakları.
+- Küçük renkli çiçekler.
+- Çok sayıda küçük su boşluğu.
+
+Burada “bir gölün kenarına birkaç ot eklemek” yeterli değil.
+
+Sulak alanın kendi iç yapısı olmalı:
+
+> Su → saz adacığı → açık su boşluğu → düşük bitki örtüsü → daha yoğun saz → kara.
+
+Bu tekrarlanan ama düzensiz desen, çok zengin bir doğa hissi oluşturuyor.
+
+---
+
+# 9. Kaya ve taşlar
+
+## 9.1. Biçim
+
+Kayalar:
+
+- Belirgin kütleye sahip.
+- Kırık ve yuvarlatılmış yüzeyleri birlikte taşıyor.
+- Genellikle birkaç büyük yüzeyden okunuyor.
+- Kimi yerde tek, kimi yerde küçük grup halinde.
+- Bazıları zemine gömülü görünüyor.
+
+Her kaya aynı oval biçimde olmamalı.
+
+## 9.2. Renk ve ışık
+
+- Üst yüzeyler daha açık gri.
+- Yan yüzeyler daha koyu.
+- Alt temas bölgesi en koyu.
+- Bazı taşlarda yeşilimsi veya sıcak kahverengi tonlar.
+- Bazı bölgelerde yosun veya bitkiyle kısmi örtülme.
+
+Taşın etrafına kalın siyah kontur çizmek yerine hacmi ışık farkıyla açıklamak daha uygun.
+
+## 9.3. Araziyle ilişkisi
+
+Taşlar:
+
+- Nehir kıyısında.
+- Arazi köşelerinde.
+- Platform geçişlerinde.
+- Açık zeminde küçük gruplar halinde
+
+kullanılıyor.
+
+Yerleşimleri, dünyanın her yerine eşit saçılmış nesneler gibi görünmemeli.
+
+---
+
+# 10. Hayvanlar
+
+## 10.1. Tanınabilirlik
+
+4. görselde geyikler, 9. görselde panda, küçük ölçekte bile tanınıyor.
+
+Bunu sağlayan ayrıntılar:
+
+- Geyiğin uzun bacakları.
+- İnce ve yüksek boynu.
+- Gövdenin yatay kütlesi.
+- Başın gövdeye göre yönü.
+- Pandanın siyah-beyaz bölünmesi.
+- Kısa, dolgun gövde yapısı.
+- Hayvanın zemine basan gölgesi.
+
+Hayvan tasarımı yalnızca “bir gövde ve iki göz” üzerinden kurulmamış.
+
+## 10.2. Oranlar
+
+Hayvanlar, çevredeki ağaçlara göre küçük kalıyor. Bu, ormanın yüksekliğini hissettiriyor.
+
+Buna rağmen siluetleri:
+
+- Zeminden ayrılacak kadar belirgin.
+- Aşırı küçük ayrıntılara bağımlı değil.
+- Farklı yönlerden tanınabilir.
+
+## 10.3. Zemine oturma
+
+Ayakların altında veya gövdenin yakınında temas gölgesi bulunmalı.
+
+Hayvanın gölgesi çok uzak veya çok geniş olursa havada yüzüyormuş gibi görünür. Gölge, hayvanın zemine bastığını anlatmalı.
+
+## 10.4. EVOSIM için uyarlama
+
+Referanstaki hayvan gerçekçiliğini birebir uygulamak zorunlu değil. EVOSIM’in kalıtsal renkleri ve farklı beden biçimleri korunabilir.
+
+Ancak referanstan şu nitelikler alınmalı:
+
+- Hacimli gövde.
+- Okunaklı baş-gövde yönü.
+- Zemine temas.
+- Tür veya beslenme grubunu anlatan siluet.
+- Boyuta uygun, ölçülü ayrıntı.
+
+---
+
+# 11. Yapıların sanat dili
+
+Referanslarda yapılar doğanın içinde açıkça ayırt ediliyor.
+
+## 11.1. Renk ailesi
+
+Yapılarda sık kullanılan renkler:
+
+- Beyaz veya kırık beyaz.
+- Kırmızı-turuncu vurgu.
+- Koyu gri metal.
+- Mavi cam veya su.
+- Yeşil bitki içeren üst yüzeyler.
+
+Doğanın yeşil-kahverengi renklerine karşı bu renkler güçlü bir ayrım oluşturuyor.
+
+## 11.2. Biçim ailesi
+
+Yapılar çoğunlukla:
+
+- Silindir.
+- Kısa kule.
+- Dairesel platform.
+- Pervane.
+- Çanak.
+- Cam kap.
+- Küçük boru ve tank grubu
+
+gibi kolay tanınan geometrilerden oluşuyor.
+
+Makineler küçük ölçekte bile kullanım amacını düşündürecek bir siluete sahip.
+
+## 11.3. Ayrıntı seviyesi
+
+Büyük şekil önce okunuyor; borular, fanlar, merdivenler ve kablolar ikinci katmanda geliyor.
+
+Bir yapıyı baştan sona aynı yoğunlukta küçük mekanik ayrıntıyla doldurmak, bu okunaklılığı bozabilir.
+
+## 11.4. Kablolar ve bağlantılar
+
+Kablolar:
+
+- İnce.
+- Hafif kavisli.
+- Zeminden veya nesnelerden ayrılabilecek kadar açık.
+- Görsel olarak ana nesnelerden daha düşük öncelikte.
+
+5. görseldeki yükseltilmiş hatlarda ise uzun ayaklar, üstteki taşıyıcı çizgi ve bağlantı noktaları belirgin biçimde ayrışıyor.
+
+---
+
+# 12. Işık ve gölge
+
+## 12.1. Aydınlatma karakteri
+
+Genel aydınlatma açık ve okunaklı. Gölgeler belirgin, fakat bütün sahneyi karanlıklaştıracak sertlikte değil.
+
+Güneşli bir dış ortam hissi var.
+
+Her sahnede şu düzen korunmalı:
+
+- Üst yüzeyler daha aydınlık.
+- Gölgedeki yan yüzeyler daha koyu.
+- Bitki içleri ve nesne temasları daha koyu.
+- Açık araziler daha rahat okunuyor.
+- Yoğun ormanlar kendi içinde derinlik taşıyor.
+
+## 12.2. Işık yönü tutarlılığı
+
+Tek bir sahnede bütün nesneler aynı baskın ışık yönünü paylaşmalı.
+
+Ağaç bir taraftan, taş başka taraftan, hayvan tamamen farklı taraftan aydınlatılırsa dünya bir araya getirilmiş ayrı görseller gibi görünür.
+
+Üretim sırasında bir ortak ışık yönü seçilmeli ve bütün assetler buna göre hazırlanmalı.
+
+## 12.3. Gölge türleri
+
+Üç gölge türü birlikte çalışmalı:
+
+### Temas gölgesi
+
+Nesnenin zemine değdiği dar bölgede.
+
+### Düşen gölge
+
+Uzun ağaç veya yapıdan zemine doğru uzanan gölge.
+
+### İç gölgelenme
+
+Yaprak kümelerinin, dalların ve kaya yüzeylerinin birbirini karartması.
+
+Özellikle ağaçta yalnızca yere düşen gölge kullanmak yeterli değil. Tacın kendi içinde de derinlik bulunmalı.
+
+---
+
+# 13. Renk sistemi
+
+Aşağıdaki palet, referansların genel ilişkilerini yakalamaya yönelik yaklaşık bir başlangıç paletidir.
+
+| İşlev | Renk karakteri | Yaklaşık örnek |
+|---|---|---|
+| Açık çimen | Sarıya yaklaşan doğal yeşil | `#80A64E` |
+| Nemli çimen | Daha soğuk orta yeşil | `#4E874D` |
+| Koyu orman | Derin yeşil | `#244D36` |
+| Yaprak ışığı | Sıcak açık yeşil | `#AAC568` |
+| Yaprak gölgesi | Maviye yaklaşan koyu yeşil | `#245647` |
+| Açık su | Canlı mavi-turkuaz | `#4CAFCB` |
+| Derin su | Koyu mavi | `#245A7D` |
+| Su parlaması | Açık buz mavisi | `#DBF4F5` |
+| Kuru toprak | Soluk kum rengi | `#C5B38A` |
+| Koyu toprak | Kahverengi | `#665039` |
+| Arazi yan yüzü | Koyu toprak-kaya | `#4B3E37` |
+| Kaya üstü | Orta açık gri | `#8D938A` |
+| Sonbahar vurgusu | Kiremit kırmızısı | `#A8473C` |
+| Sıcak yaprak vurgusu | Turuncu | `#C98545` |
+| Kar ışığı | Hafif mavi beyaz | `#E4EDF0` |
+
+### Renk dağılımı kuralı
+
+Haritanın çoğu doğal yeşiller, toprak tonları ve su renklerinden oluşmalı.
+
+Parlak renkler daha küçük alanlarda kullanılmalı:
+
+- Çiçekler.
+- Meyveler.
+- Hayvan işaretleri.
+- Yapı vurguları.
+- Yangın.
+- Arayüzün aktif öğeleri.
+
+Her şey aynı derecede doygun olursa önemli nesneler birbirinden ayrılmaz.
+
+---
+
+# 14. Yangın ve çevresel etkiler
+
+## 14.1. Yangın
+
+6. görselde yangın geniş bir alanı kaplıyor; fakat alanın tamamı aynı anda aynı biçimde yanmıyor.
+
+Görsel katmanlar:
+
+1. Ortada yanmış, koyu zemin.
+2. Çevresinde aktif yanma kuşağı.
+3. Sarı-beyaz sıcak merkezler.
+4. Turuncu dış alevler.
+5. Alevler arasında görünen bitki kalıntıları.
+6. Yer yer daha düşük yoğunluklu geçiş bölgeleri.
+
+Yangın ilerledikçe geride kalan yüzey değişmeli. Yalnızca çimenin üzerine alev efekti koymak yeterli olmaz.
+
+## 14.2. Sıcak veya erimiş zemin
+
+8. görselde:
+
+- Koyu, kırmızı-siyah ana zemin.
+- Aralarda parlak turuncu çatlaklar.
+- Çok daha parlak yerel sıcak noktalar.
+- Yakındaki nesnelerle güçlü malzeme karşıtlığı.
+
+Parlaklık bütün yüzeye eşit yayılmamalı.
+
+## 14.3. Buhar, su püskürtme ve atmosfer
+
+5 ve 8. görsellerdeki etkiler:
+
+- Kaynağı belli olan.
+- Nesnenin işleviyle bağlantılı.
+- Çevreyi tamamen kapatmayan.
+- İnce ve geçirgen parçacıklardan oluşan
+
+efektler olarak okunuyor.
+
+## 14.4. Büyük şeffaf yüzeyler
+
+8 ve 10. görsellerde görülen geniş yeşilimsi, geçirgen yüzeyler:
+
+- Kenar çizgileriyle tanımlanıyor.
+- Uzun taşıyıcı direklere bağlanıyor.
+- Arkasındaki bitki örtüsünü görünür bırakıyor.
+- Sahnenin üzerine hafif bir renk filtresi ekliyor.
+
+Bunları sıradan ağaç gölgesi gibi yorumlamamak gerekir; ayrı bir yapısal katman görünümündeler.
+
+---
+
+# 15. Arayüz dili
+
+## 15.1. Harita önceliği
+
+Arayüz, ekranın köşelerine ve alt bölümüne yerleşiyor.
+
+Görsel alanın büyük kısmı dünyaya ayrılmış.
+
+Özellikle 7 ve 8. görsellerde:
+
+- Sol üstte durum veya ilerleme öğeleri.
+- Sağ üstte yatay çevre göstergeleri.
+- Altta küçük yapı veya araç seçimleri.
+- Aktif öğelerde sıcak turuncu vurgu.
+
+## 15.2. Renk ve yüzey
+
+Arayüzde:
+
+- Koyu mavi-yeşil paneller.
+- Açık renk ikon ve yazılar.
+- İnce sınırlar.
+- Sıcak turuncu aktif seçim.
+- Küçük, sıkı yerleşimli kontroller
+
+görülüyor.
+
+Bu referansların arayüzü, geniş krem renkli kartlarla kaplanan bir gösterge paneli görünümünde değil; haritanın çevresine yerleşen kompakt bir araç sistemi gibi.
+
+## 15.3. Ölçek ve tipografi
+
+- Sayısal bilgiler kısa.
+- İkonlar küçük ama kontrastlı.
+- Her kontrolün çevresinde devasa boşluklar yok.
+- Seçili araç görsel olarak belirgin.
+- Dünya üstündeki işaretler kısa ve sembolik.
+
+## 15.4. EVOSIM’e uyarlama
+
+EVOSIM için birebir yapı araç çubuğu gerekmiyor.
+
+Bu arayüzden aktarılması uygun olan ilkeler:
+
+- Harita merkezinin açık kalması.
+- Kontrollerin kenarlarda toplanması.
+- Küçük ama net aktif durumlar.
+- Birbirini kapatmayan kısa bilgi panelleri.
+- Ayrıntıların ihtiyaç halinde açılması.
+
+---
+
+# 16. Görsel yoğunluk ve kompozisyon
+
+Referanslardaki sahneler yoğun; fakat yoğunluk bütün alana eşit dağılmamış.
+
+İyi bir kompozisyonda şu alanlar birlikte bulunuyor:
+
+- Sakin, açık çimenlik.
+- Yoğun ve koyu orman.
+- Açık mavi su koridoru.
+- Dikey ağaç veya yapı vurgusu.
+- Küçük, renkli çiçek ya da hayvan ayrıntısı.
+
+Örneğin 4. görselde hayvanlar, yoğun bitkilerin arasında kaybolmak yerine açık bir kara parçasında görülüyor. Çevredeki su ve koyu bitki örtüsü bu açıklığı çerçeveliyor.
+
+9. görselde panda, bambuların arasında olsa da siyah-beyaz rengi ve gövde boşluğu sayesinde okunuyor.
+
+**Doğal yoğunluk ile gözlem yapılabilecek açıklıklar birlikte tasarlanmalı.**
+
+---
+
+# 17. Görsel başına kısa çözümleme
+
+| Görsel | En önemli tasarım özelliği | Üretimde alınacak ders |
+|---|---|---|
+| **1** | Parlak nehir, farklı ağaç yükseklikleri, çiçekli çayır ve sulak alanlar | Aynı bölgede birkaç bitki katmanını birlikte kullan |
+| **2** | Tropik kıyı, kum, yoğun orman ve su altı mercanları | Biyom geçişlerini malzeme, renk ve yoğunlukla anlat |
+| **3** | Kuru platformlar ve seviyeler arasında akan su | Arazi yüksekliğini duvar, gölge ve şelaleyle göster |
+| **4** | Açık hayvan alanı, koyu su ve basamaklı kıyılar | Canlıların görünmesi için bilinçli açıklık bırak |
+| **5** | Çatlamış kurak zemin ve uzun taşıyıcılı yapılar | Düşey nesnelerde taban, yükseklik ve gölge ilişkisini koru |
+| **6** | Aktif yangın kuşağı ve yanmış merkez | Efektin çevrede kalıcı yüzey değişimi oluşturmasını sağla |
+| **7** | Küçük ölçekte harita üstü işaretler ve köşe arayüzü | Düşük çözünürlükte de okunabilen ikon ve siluet kullan |
+| **8** | Sıcak zemin, makine ve geçirgen büyük yüzey | Farklı malzemeleri renk, ışık ve saydamlıkla ayır |
+| **9** | Uzun bambular, renkli bitkiler, panda ve güçlü arazi kesiti | Yakın planda hacim, yükseklik ve doğal katmanlaşmayı koru |
+| **10** | Yoğun tropik bitki örtüsü ve geniş şeffaf yapı | Üst üste gelen katmanlarda arka plan okunurluğunu sürdür |
+| **11** | Parçalı kar, uzun ağaçlar ve karma yüzeyler | Biyom değişimini tek renk filtresi yerine farklı kaplamalarla anlat |
+
+---
+
+# 18. Başka bir yapay zekâ için asset üretim kuralları
+
+## 18.1. Önce ortak görsel sözleşme oluştur
+
+Bütün assetlerden önce şu değerler sabitlenmeli:
+
+- Kamera açısı.
+- Ortografik ölçek.
+- Işık yönü.
+- Işığın sıcaklığı.
+- Gölgenin rengi ve yumuşaklığı.
+- Dünya birimi başına nesne büyüklüğü.
+- Ayrıntı yoğunluğu.
+- Yüzeylerin genel doygunluk seviyesi.
+
+Farklı ağaçlar, kayalar ve hayvanlar bu ortak sözleşmeye göre üretilmeli.
+
+## 18.2. Ağaç sprite’ları için
+
+Her sprite:
+
+- Gerçek şeffaf arka plana sahip olmalı.
+- Gövde tabanı belirli bir bağlantı noktasına oturmalı.
+- Kenarlardan kesilmemeli.
+- Diğer ağaçlarla aynı kamera ve ışığı kullanmalı.
+- Ayrı gölge üretimine uygun olmalı.
+- Küçültüldüğünde de ana siluetini korumalı.
+
+Bir ağacın yalnızca yüksek çözünürlüklü yakın planı güzel olmamalı. Oyun içindeki gerçek boyutunda da kontrol edilmeli.
+
+## 18.3. Varyasyon üretimi
+
+Başlangıç için önerilen görsel çeşitlilik:
+
+- 4–6 geniş yapraklı ağaç biçimi.
+- 3–4 uzun iğne yapraklı ağaç.
+- 3–4 çalı.
+- 3 uzun ot veya saz kümesi.
+- 3–5 kaya biçimi.
+- Birkaç farklı çiçek kümesi.
+- Biyoma göre palmiye veya bambu ailesi.
+
+Varyasyon yalnızca aynı sprite’ı büyütüp küçültmekten oluşmamalı. Siluet ve iç kütle dağılımı da değişmeli.
+
+## 18.4. Etkileşimli parçaları ayrı tut
+
+EVOSIM gibi bir oyunda:
+
+- Meyveler.
+- Kar kaplaması.
+- Yanma etkisi.
+- Seçilme işareti.
+- Hasar veya kuruma.
+- Saydamlaşma
+
+gerektiğinde ayrı katmanlar olarak ele alınmalı.
+
+Örneğin yenilebilir elmalar ağaç görseline kalıcı biçimde boyanırsa, meyve yenildiğinde görüntü doğru güncellenemez.
+
+## 18.5. Uzun ağaçlarda görünürlük
+
+Uzun ağaçlar için görünürlük sistemi, sadece gövdenin bulunduğu küçük alanı kontrol etmemeli.
+
+Ağacın ekranda kapladığı:
+
+- Taç.
+- Gövde.
+- Eğik dallar.
+- Yukarı uzanan siluet
+
+birlikte değerlendirilmelidir.
+
+Canlı ağaç arkasında kaldığında uygulanabilecek yöntemler:
+
+- Ağacı kademeli saydamlaştırma.
+- Canlının siluetini belirginleştirme.
+- Seçili canlıyı ayrı bir görünürlük katmanında gösterme.
+
+Saydamlık aniden açılıp kapanmamalı; kısa ve yumuşak geçiş kullanmalı.
+
+---
+
+# 19. Referansa yaklaşmayı engelleyen yaygın hatalar
+
+Aşağıdaki hatalar, benzer renkler kullanılsa bile sonucu referanstan uzaklaştırır:
+
+1. **Ağaçları tepeden görülen yeşil daireler olarak çizmek.**  
+   Gövde, yükseklik ve katmanlı taç hissi kaybolur.
+
+2. **Arazinin yan yüzünü göstermemek.**  
+   Dünya düz bir harita yüzeyi gibi görünür.
+
+3. **Bütün nesneleri eşit aralıklarla dağıtmak.**  
+   Doğal kümelenme ve biyom farkı kaybolur.
+
+4. **Her yere aynı çimen dokusunu koymak.**  
+   Orman, açıklık, kıyı ve sulak alan birbirinden ayrılmaz.
+
+5. **Suyu tek renk ve tek desenle çizmek.**  
+   Derinlik, kıyı ve akış hissi zayıflar.
+
+6. **Assetlerde farklı ışık yönleri kullanmak.**  
+   Nesneler aynı dünyaya ait görünmez.
+
+7. **Ağaçları yalnızca küçük üçgen yüzeylerle ayrıntılandırmak.**  
+   Doğal yaprak kütleleri yerine belirgin geometrik parçalar öne çıkar.
+
+8. **Küçük nesneleri aşırı ayrıntılı yapmak.**  
+   Gerçek oyun ölçeğinde ayrıntılar gürültüye dönüşür.
+
+9. **Kıyıların tamamını aşırı yumuşatmak.**  
+   Referanstaki modüler arazi ve platform karakteri kaybolur.
+
+10. **Arayüz panellerini gereğinden büyük yapmak.**  
+    Haritanın doğal kompozisyonu görünmez hale gelir.
+
+11. **Bütün bitkileri aynı parlaklıkta çizmek.**  
+    Ormanın iç derinliği ve gölgeli katmanları kaybolur.
+
+12. **Uzun ağaçları büyütüp görünürlük sistemini değiştirmemek.**  
+    Canlılar ağaçların arkasında okunamaz hale gelir.
+
+---
+
+# 20. Doğrudan başka yapay zekâya verilebilecek ana tasarım talimatı
+
+> **Görsel hedef**
+>
+> Doğal ekosistemleri konu alan, eğik üstten bakışlı, ortografik veya ortografiğe yakın bir oyun dünyası tasarla. Dünya; elle boyanmış, hacimli, ayrıntılı ama okunaklı bir doğa dioraması gibi görünmeli. Terra Nil referanslarındaki katmanlı arazi, uzun bitki örtüsü, farklı biyom yoğunlukları ve su-kara ilişkisi temel alınmalı.
+>
+> **Kamera**
+>
+> Arazinin üst yüzeyi ile yan kesitlerinin aynı anda görüldüğü eğik bir kamera kullan. Uzun ağaçların gövdeleri ve yan hacimleri görünür olmalı. Bütün assetler aynı kamera açısına göre hazırlanmalı.
+>
+> **Arazi**
+>
+> Karayı, belirgin üst yüzeyi ve koyu yan kesiti olan yükseltilmiş parçalar halinde oluştur. Büyük konturlar modüler ve yer yer basamaklı olabilir. Kenarlarda küçük kırıklar, ot çıkıntıları ve malzeme farklılıkları bulunmalı. Çimen, kuru toprak, kum, kaya, kar ve yanmış zemin ayrı yüzey karakterlerine sahip olmalı.
+>
+> **Ağaçlar**
+>
+> Uzun ve hacimli ağaçlar kullan. Görünen gövde, dallanma ve birkaç ana yaprak kütlesinden oluşan taç tasarla. Taçlarda açık yaprak uçları, koyu iç boşluklar ve birbirini örten hacimler bulunmalı. Ağaçlar boy, genişlik, siluet ve yeşil tonu bakımından çeşitlenmeli. Uzun kozalaklılar, geniş yapraklılar, küçük ağaçlar ve çalılar farklı yükseklik katmanları oluşturmalı.
+>
+> **Bitki yerleşimi**
+>
+> Bitkileri kümeler halinde yerleştir. Yoğun ormanları, seyrek ağaçlı geçiş alanlarını ve açık çayırları birlikte kullan. Orman sınırını çalılar ve uzun otlarla yumuşat. Sulak alanlarda su boşlukları, saz adacıkları ve alçak su bitkileri iç içe geçsin. Bütün haritayı aynı yoğunlukta doldurma.
+>
+> **Su**
+>
+> Su; derinlik rengi, yüzey hareketi, küçük kırık ışık yansımaları, kıyı çizgisi, yerel köpük ve uygun bölgelerde su altı nesneleri içermeli. Tropik sığ su daha açık turkuaz, derin veya soğuk su daha koyu mavi olabilir. Su altı nesneleri daha düşük kontrastlı ve su rengiyle örtülmüş görünmeli.
+>
+> **Kaya**
+>
+> Kayalar birkaç büyük, kırık yüzeyden okunmalı. Üst yüzeyleri aydınlık, yanları koyu, tabanları zemine gömülü olmalı. Kayaları doğal kümeler halinde kullan.
+>
+> **Hayvanlar**
+>
+> Hayvanların türünü veya grubunu anlatan güçlü siluetler oluştur. Baş, gövde, uzuv ve hareket yönü küçük ölçekte okunmalı. Zemine temas gölgesi bulunmalı. Uzun bitkilerin arkasında kaldıklarında görünürlüklerini koruyan bir sistem kullanılmalı.
+>
+> **Işık**
+>
+> Bütün sahne tek bir baskın güneş yönünü paylaşmalı. Temas gölgeleri, düşen gölgeler ve yaprak kümeleri arasındaki iç gölgelenme birlikte çalışmalı. Aydınlatma doğal, açık ve okunaklı olmalı.
+>
+> **Renk**
+>
+> Doğal yeşiller, mavi-turkuaz su ve kahverengi toprak ana paleti oluşturmalı. Çiçekler, meyveler, hayvan işaretleri ve yapılar küçük vurgu alanları sağlamalı. Aynı biyom içinde sıcak-soğuk ve açık-koyu renk farklılıkları bulunmalı.
+>
+> **Arayüz**
+>
+> Harita ekranın ana içeriği olarak kalmalı. Kontroller kenarlarda ve köşelerde kompakt biçimde yerleşmeli. Aktif seçimler küçük ama belirgin renk vurgularıyla gösterilmeli. Bilgi panelleri doğal alanı gereksiz yere kapatmamalı.
+>
+> **Üretim ve doğrulama**
+>
+> Assetleri yalnızca tek tek yakın planda değerlendirme. Gerçek oyun kamerasında, gerçek boyutlarında, yoğun bir orman içinde ve açık arazide test et. İlk doğrulama sahnesi; nehir, yükseltilmiş kıyı, birkaç uzun ağaç, alçak bitki örtüsü, kaya ve birkaç hayvan içermeli. Bu küçük sahnede kamera, ışık, ölçek ve malzeme ilişkileri tutarlı hale geldikten sonra bütün haritaya yay.
+
+---
+
+## Son kalite ölçütü
+
+Başka yapay zekânın yaptığı tasarıma bakarken en belirleyici soru şu olmalı:
+
+**“Bu dünya; farklı yüksekliği, yoğunluğu ve malzemesi olan, içine bakıp ayrıntı keşfetmek isteyeceğim küçük bir doğa alanı gibi görünüyor mu?”**
+
+Referansların güçlü yanı tam olarak bu: Uzaktan temiz bir kompozisyon görüyorsun; yaklaştığında ise ağaç gövdeleri, çalılar, sazlar, kıyı kesitleri, su altı ayrıntıları ve hayvanlar birbirini tamamlıyor.

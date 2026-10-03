@@ -1,0 +1,1 @@
+PASS: 30/60/144 FPS at 1x/20x; 400-tick independent Core hash equality; pause; capped-budget backlog; 233 shore vertices.

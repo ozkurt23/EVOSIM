@@ -1,0 +1,18 @@
+{
+  "blenderRender": true,
+  "fbxRoundtripAssets": 8,
+  "runtimeApiCompile": true,
+  "unityEditorCompile": true,
+  "unityRuntimeVerified": true,
+  "blocker": null,
+  "coreSha256": "50e63b1ef6fe985e8849d5ac55b27da9db0428f51bd3ca008f79785277459033",
+  "productionLauncher": "release-v0.5.9",
+  "unitySceneCreated": true,
+  "standalonePlayerVerified": true,
+  "clockEqualityTest": true,
+  "shoreHeightTest": true,
+  "previewOnly": true,
+  "testDate": "2026-10-03",
+  "softShoreGeometryVerified": true,
+  "shoreSubdivisions": 4
+}

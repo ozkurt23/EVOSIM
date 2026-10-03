@@ -1,0 +1,43 @@
+{
+  "shoreHeight": 0.06,
+  "waterHeight": -0.02,
+  "heightGap": 0.08,
+  "rocks": [
+    {
+      "x": -6.75,
+      "y": -7,
+      "radius": 1.02,
+      "fullyOnLand": true
+    },
+    {
+      "x": -6.25,
+      "y": -7.8,
+      "radius": 0.6375,
+      "fullyOnLand": true
+    },
+    {
+      "x": 6.75,
+      "y": 5,
+      "radius": 0.935,
+      "fullyOnLand": true
+    },
+    {
+      "x": 6.3,
+      "y": 6,
+      "radius": 0.5525,
+      "fullyOnLand": true
+    },
+    {
+      "x": 8,
+      "y": -7,
+      "radius": 1.105,
+      "fullyOnLand": true
+    },
+    {
+      "x": 8.7,
+      "y": -6.8,
+      "radius": 0.5525,
+      "fullyOnLand": true
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+**/[Ll]ibrary/
+**/[Tt]emp/
+**/[Ll]ogs/
+**/[Uu]ser[Ss]ettings/
+**/[Bb]uild/
+**/bin/
+**/obj/
+*.log
+*.blend1
+*.ulf
+.env
+.env.*
+**/observations/
+**/worlds/
+.DS_Store
