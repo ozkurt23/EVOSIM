@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=EVOSIM
+Comment=Yerel ekosistem ve evrim gözlemevi
+Exec=/home/aliozkurt/Documents/Codex/2026-09-15/se/outputs/EVOSIM-Godot/baslat.sh
+Icon=/home/aliozkurt/Documents/Codex/2026-09-15/se/outputs/EVOSIM-Godot/assets/ui/brand.svg
+Terminal=false
+Categories=Game;Science;

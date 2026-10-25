@@ -1,0 +1,18 @@
+{
+  "passed": true,
+  "checks": {
+    "lifecycle_changed_world": true,
+    "exact_early_forest": true,
+    "head_preserved_during_seek": true,
+    "branch_independent": true,
+    "save_while_preview_keeps_head": true,
+    "origin_reopens_exact": true,
+    "full_replay_exact": true,
+    "existing_save_preserves_model": true,
+    "different_model_rejected": true,
+    "ecology_changes_fingerprint": true,
+    "archive_changes_fingerprint": true,
+    "core_changes_fingerprint": true
+  },
+  "model": "471d1c1d987597a45213683ec6a00390300e6cacdbc61e06f976da7a76dab4b3"
+}

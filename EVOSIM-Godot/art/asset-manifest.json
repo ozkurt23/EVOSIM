@@ -1,0 +1,42 @@
+{
+  "oak": {
+    "vertices": 39507,
+    "polygons": 33323
+  },
+  "alder": {
+    "vertices": 51035,
+    "polygons": 43067
+  },
+  "pine": {
+    "vertices": 53957,
+    "polygons": 42972
+  },
+  "shrub": {
+    "vertices": 1887,
+    "polygons": 1556
+  },
+  "rock": {
+    "vertices": 161,
+    "polygons": 156
+  },
+  "herbivore": {
+    "vertices": 350,
+    "polygons": 470
+  },
+  "predator": {
+    "vertices": 322,
+    "polygons": 452
+  },
+  "oak_b": {
+    "vertices": 39507,
+    "polygons": 33323
+  },
+  "alder_b": {
+    "vertices": 51035,
+    "polygons": 43067
+  },
+  "rock_b": {
+    "vertices": 161,
+    "polygons": 156
+  }
+}

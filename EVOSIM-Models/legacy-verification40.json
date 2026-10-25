@@ -1,0 +1,78 @@
+[
+  {
+    "file": "d36a1930a9174772aa5978f0488c6939.evoworld",
+    "exit": 0,
+    "unchanged": true,
+    "result": {
+      "format": "EVOSIM-V1-ORIGIN-1",
+      "sourceId": "d36a1930a9174772aa5978f0488c6939",
+      "sourceName": "Yeni vadi",
+      "sourceSha256": "2163112ac60c7ed2af134d27a14fb4fb8667f381897c6b6869284c5c32f5b222",
+      "coreSha256": "50e63b1ef6fe985e8849d5ac55b27da9db0428f51bd3ca008f79785277459033",
+      "checkpointFormat": "EVOSIM-0.4-WORLD-2",
+      "checkpointSha256": "65e3efe9bef9a673f8a86d7e8bbde1e03489cec717718f7ea437eac339ffaec3",
+      "headTick": 20617,
+      "selectedTick": 20617,
+      "stateHash": "c6da2bfc910383f64b150d220f725e1ed5850bd48fb7f3648144e89693d3855f",
+      "living": 0,
+      "note": "Bu v1 kökenidir; v2 dünya veya v2 geçmiş değildir. Kaynak arşiv korunmuştur."
+    }
+  },
+  {
+    "file": "264cdbd443524292b6ebb093f5daf84c.evoworld",
+    "exit": 0,
+    "unchanged": true,
+    "result": {
+      "format": "EVOSIM-V1-ORIGIN-1",
+      "sourceId": "264cdbd443524292b6ebb093f5daf84c",
+      "sourceName": "Vadi 42 · 15.09 12:15",
+      "sourceSha256": "d48c265c6e05d5289678803780369660c9743e0e9d73e335a74d4266600b327c",
+      "coreSha256": "50e63b1ef6fe985e8849d5ac55b27da9db0428f51bd3ca008f79785277459033",
+      "checkpointFormat": "EVOSIM-0.4-WORLD-2",
+      "checkpointSha256": "b6deb208f9e296e0d747a668ee17750e5ebf546c3381c0fa6e16d82716bfe56d",
+      "headTick": 0,
+      "selectedTick": 0,
+      "stateHash": "d93ac1820233cda6bd870cf87374276b7fc88c378a47242b846389764100cc6b",
+      "living": 165,
+      "note": "Bu v1 kökenidir; v2 dünya veya v2 geçmiş değildir. Kaynak arşiv korunmuştur."
+    }
+  },
+  {
+    "file": "e8361a33f07c41f0a60ca5f7a15493fc.evoworld",
+    "exit": 0,
+    "unchanged": true,
+    "result": {
+      "format": "EVOSIM-V1-ORIGIN-1",
+      "sourceId": "e8361a33f07c41f0a60ca5f7a15493fc",
+      "sourceName": "çok etçil ama otçullar yaşlanmıyo",
+      "sourceSha256": "ea3fe6e7d294d95bebf70ab7df30e50b10e564f215dd8a5feab39bd03b14bf1b",
+      "coreSha256": "50e63b1ef6fe985e8849d5ac55b27da9db0428f51bd3ca008f79785277459033",
+      "checkpointFormat": "EVOSIM-0.4-WORLD-2",
+      "checkpointSha256": "cd2459d18865bf9e508109b1da89a2ec21f5f527d04a5bfd91252c5c07494c5b",
+      "headTick": 33011,
+      "selectedTick": 33011,
+      "stateHash": "e5be0b72ef4b0c684fc25c98bb0792b3b1b3befb47dbc3a92267d623f7138642",
+      "living": 2,
+      "note": "Bu v1 kökenidir; v2 dünya veya v2 geçmiş değildir. Kaynak arşiv korunmuştur."
+    }
+  },
+  {
+    "file": "9ec4659fc0e24078957e1c1e4cb14ac2.evoworld",
+    "exit": 0,
+    "unchanged": true,
+    "result": {
+      "format": "EVOSIM-V1-ORIGIN-1",
+      "sourceId": "9ec4659fc0e24078957e1c1e4cb14ac2",
+      "sourceName": "çok etçil ama otçullar yaşlanmıyo",
+      "sourceSha256": "ba4fd51840d5f73ef17bb76f91221932e0c5ef6719f68eb89547e5c419e69a23",
+      "coreSha256": "50e63b1ef6fe985e8849d5ac55b27da9db0428f51bd3ca008f79785277459033",
+      "checkpointFormat": "EVOSIM-0.4-WORLD-2",
+      "checkpointSha256": "9da406f1436bee1effcb8f23316835fda2c3436e2afefcce6a5ba6786a3b339b",
+      "headTick": 68344,
+      "selectedTick": 68344,
+      "stateHash": "d7f35bd4f7a3fea0c600510641cae04c2cf8f7f617136914585e09384667736e",
+      "living": 0,
+      "note": "Bu v1 kökenidir; v2 dünya veya v2 geçmiş değildir. Kaynak arşiv korunmuştur."
+    }
+  }
+]

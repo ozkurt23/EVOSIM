@@ -6,6 +6,7 @@ namespace EvoSim.Observer;
 internal sealed class WorldSlot {
  public string Id {get;set;}=""; public string Name {get;set;}="";public string SavedUtc {get;set;}="";public int Seed {get;set;} public long Tick {get;set;} public int Living{get;set;} public int MapSize{get;set;}=128;
  public float Zoom{get;set;}=1.25f;public float X{get;set;}=64;public float Y{get;set;}=64;public int Speed{get;set;}=1;public string SourceWorldId{get;set;}="";public string SourceFormat{get;set;}="";public string Sha256{get;set;}="";public string Preview{get;set;}="";
+ public bool AutoClimate {get;set;}=true;
  public long TimelineEarliestTick{get;set;} public long TimelineHeadTick{get;set;} public string TimelineSha256{get;set;}="";
 }
 internal sealed class WorldStore {
@@ -15,7 +16,7 @@ internal sealed class WorldStore {
  readonly Dictionary<bool,(long Stamp,List<WorldSlot> Slots)> listingCache=new();
  readonly string dir;
  sealed record StoredRecord(string Format,WorldSlot Slot,byte[] Head,byte[]? Timeline);
- public WorldStore(string directory){TimelineArchive.ConfigureCoreHash(CoreHash.Value);dir=directory;Directory.CreateDirectory(dir);}
+ public WorldStore(string directory,string? coreFingerprint=null){TimelineArchive.ConfigureCoreHash(coreFingerprint??CoreHash.Value);dir=directory;Directory.CreateDirectory(dir);}
  string PathFor(string id){if(!Guid.TryParseExact(id,"N",out _))throw new InvalidDataException("Geçersiz kayıt kimliği.");return Path.Combine(dir,id+".evoworld");}
  public List<WorldSlot> List(bool trash=false){long now=System.Diagnostics.Stopwatch.GetTimestamp();if(listingCache.TryGetValue(trash,out var hit)&&now-hit.Stamp<System.Diagnostics.Stopwatch.Frequency)return hit.Slots;var list=ReadSlots(trash);listingCache[trash]=(now,list);return list;}
  List<WorldSlot> ReadSlots(bool trash){
@@ -26,7 +27,7 @@ internal sealed class WorldStore {
   }
   return slots.OrderByDescending(s=>s.SavedUtc,StringComparer.Ordinal).ToList();
  }
- public WorldSlot Save(World world,string name,WorldSlot? existing,float zoom,float x,float y,int speed,string? sourceWorldId=null,string? sourceFormat=null,byte[]? timelineArchive=null){
+ public WorldSlot Save(World world,string name,WorldSlot? existing,float zoom,float x,float y,int speed,string? sourceWorldId=null,string? sourceFormat=null,byte[]? timelineArchive=null,bool? autoClimate=null){
   if(existing!=null&&Directory.Exists(Path.Combine(dir,"trash",existing.Id)))throw new InvalidOperationException("Bu dünya silinmiş. Yeni kayıt olarak kaydet veya silinenlerden geri al.");
   using var memory=new MemoryStream();world.Save(memory);var data=memory.ToArray();string headHash=Hash(data);StoredRecord? previous=null;
   if(existing!=null){
@@ -44,13 +45,13 @@ internal sealed class WorldStore {
   var timeline=TimelineSession.Open(world,timelineArchive);
   if(timeline.HeadTick!=world.Tick)throw new InvalidDataException("Zaman çizelgesinin son anı dünya kaydıyla eşleşmiyor.");
   if(previous!=null&&(timeline.HeadTick<previous.Slot.TimelineHeadTick||timeline.EarliestTick!=previous.Slot.TimelineEarliestTick))throw new InvalidOperationException("Mevcut dünyanın geçmişi değiştirilemez; bu andan yeni bir dünya oluştur.");
-  var slot=new WorldSlot{SourceWorldId=sourceWorldId??existing?.SourceWorldId??"",SourceFormat=sourceFormat??existing?.SourceFormat??"",Id=existing?.Id??Guid.NewGuid().ToString("N"),Name=string.IsNullOrWhiteSpace(name)?"İsimsiz vadi":name.Trim(),SavedUtc=DateTime.UtcNow.ToString("O"),Seed=world.Seed,Tick=world.Tick,Living=world.Living,MapSize=world.Map.Size,Zoom=zoom,X=x,Y=y,Speed=speed,Preview=BuildPreview(world),Sha256=headHash,TimelineEarliestTick=timeline.EarliestTick,TimelineHeadTick=timeline.HeadTick,TimelineSha256=Hash(timelineArchive)};
+  var slot=new WorldSlot{AutoClimate=autoClimate??existing?.AutoClimate??true,SourceWorldId=sourceWorldId??existing?.SourceWorldId??"",SourceFormat=sourceFormat??existing?.SourceFormat??"",Id=existing?.Id??Guid.NewGuid().ToString("N"),Name=string.IsNullOrWhiteSpace(name)?"İsimsiz vadi":name.Trim(),SavedUtc=DateTime.UtcNow.ToString("O"),Seed=world.Seed,Tick=world.Tick,Living=world.Living,MapSize=world.Map.Size,Zoom=zoom,X=x,Y=y,Speed=speed,Preview=BuildPreview(world),Sha256=headHash,TimelineEarliestTick=timeline.EarliestTick,TimelineHeadTick=timeline.HeadTick,TimelineSha256=Hash(timelineArchive)};
   if(previous!=null&&SameSavedState(previous.Slot,slot))return previous.Slot;
   Write(CurrentFormat,slot,data,timelineArchive);return slot;
  }
  static bool SameSavedState(WorldSlot before,WorldSlot after)=>
   SameHash(before.Sha256,after.Sha256)&&SameHash(before.TimelineSha256,after.TimelineSha256)
-  &&before.Name==after.Name&&before.Zoom==after.Zoom&&before.X==after.X&&before.Y==after.Y&&before.Speed==after.Speed
+  &&before.AutoClimate==after.AutoClimate&&before.Name==after.Name&&before.Zoom==after.Zoom&&before.X==after.X&&before.Y==after.Y&&before.Speed==after.Speed
   &&before.SourceWorldId==after.SourceWorldId&&before.SourceFormat==after.SourceFormat
   &&before.Tick==after.Tick&&before.TimelineHeadTick==after.TimelineHeadTick&&before.TimelineEarliestTick==after.TimelineEarliestTick
   &&before.Seed==after.Seed&&before.MapSize==after.MapSize&&before.Living==after.Living&&before.Preview==after.Preview;

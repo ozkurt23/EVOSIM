@@ -1,0 +1,121 @@
+{
+  "camera_focus": [
+    24.0,
+    0.0,
+    24.0
+  ],
+  "camera_size": 30.0,
+  "climate_visual": {
+    "dryness": 0.20241547493418,
+    "rain": 0.0,
+    "rain_instances": 0
+  },
+  "clock_validation": {
+    "cases": [
+      {
+        "expected": 39,
+        "fps": 30,
+        "passed": true,
+        "speed": 1,
+        "tick": 39
+      },
+      {
+        "expected": 39,
+        "fps": 60,
+        "passed": true,
+        "speed": 1,
+        "tick": 39
+      },
+      {
+        "expected": 39,
+        "fps": 144,
+        "passed": true,
+        "speed": 1,
+        "tick": 39
+      },
+      {
+        "expected": 799,
+        "fps": 30,
+        "passed": true,
+        "speed": 20,
+        "tick": 799
+      },
+      {
+        "expected": 799,
+        "fps": 60,
+        "passed": true,
+        "speed": 20,
+        "tick": 799
+      },
+      {
+        "expected": 799,
+        "fps": 144,
+        "passed": true,
+        "speed": 20,
+        "tick": 799
+      }
+    ],
+    "passed": true
+  },
+  "controls": {
+    "camera_rotate": true,
+    "creature_pick": true,
+    "fixed_tick_across_fps": true,
+    "hud_pause_signal": true,
+    "hud_quality_signal": true,
+    "hud_speed_signal": true,
+    "pause_holds_tick": true,
+    "quality_toggle": true,
+    "resume": true,
+    "wheel_zoom": true
+  },
+  "corpse_sync": true,
+  "corpse_views": 0,
+  "draw_calls": 495.0,
+  "frames": 268,
+  "gpu": "NVIDIA GeForce RTX 5090 Laptop GPU",
+  "gpu_median_ms": 11.0159997940063,
+  "hash": "c340356c9e1f5c13a3e71ea8c2a14e29be42f6ac27541ae145248528b9f92e57",
+  "live": 78,
+  "map_size": 128,
+  "median_frame_ms": 14.5833333333333,
+  "p95_frame_ms": 21.4263333333333,
+  "passed": true,
+  "paused_motion_same_tick": true,
+  "pending_simulation_seconds": 0.0367915451939992,
+  "primitives": 1935975.0,
+  "render_cpu_median_ms": 0.499000001192093,
+  "renderer": "forward_plus",
+  "resolution": [
+    1920,
+    1080
+  ],
+  "script_median_ms": 2.259,
+  "speed": 20,
+  "terrain_cell_classification_errors": 0,
+  "tick": 2400,
+  "ui_card_below_meters": true,
+  "view_origin": [
+    42.0,
+    20.0
+  ],
+  "visible_creatures": 10,
+  "visible_predators": 0,
+  "world_meters": {
+    "births": 7,
+    "carnivores": 8,
+    "climate_commands": 1,
+    "days": 120.0,
+    "deaths": 7,
+    "drought": true,
+    "effective_speed": 20.0091735101273,
+    "herbivores": 70,
+    "mean_energy": 67.3719498430696,
+    "mean_water": 53.095848597013,
+    "pending": 0.0367915451939992,
+    "rain": false,
+    "scenario": "normal",
+    "tick": 2400,
+    "water_level": 0.639999866485596
+  }
+}

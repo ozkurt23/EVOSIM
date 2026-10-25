@@ -1,0 +1,18 @@
+{
+  "model": "EVOSIM-v1",
+  "checkpoint": "EVOSIM-0.4-WORLD-2",
+  "files": {
+    "bin/EvoSim.Core.dll": "50e63b1ef6fe985e8849d5ac55b27da9db0428f51bd3ca008f79785277459033",
+    "source/Core/ResourceIndex.cs": "21004b96c1d979a9d40cfd813cc039a1c5b14498fc5f3e6b4d37fa129e933bf8",
+    "source/Core/BreedingDiagnostics.cs": "483a2e623f292257f90470441cd9f5bef25873b24f490d7ccb5421b0486af630",
+    "source/Core/Terrain.cs": "ca5eb17c738e973c9479a759b73cf33e0c8b46475e668d9fd7ec3c2dfeceb29b",
+    "source/Core/Checkpoint.cs": "0b91bd17f5b55efe52fae13cdb21ee6a3ead9715dd74d01ac38622a9925a52dd",
+    "source/Core/WorldConfig.cs": "da9a3f4e78c977d05a5c951e2b74ccf3b8607480c567135aef6fec8b25c4f290",
+    "source/Core/Genetics.cs": "53dabf42584962c2882b14e75e64bd4e68a24b214e59ba577fd6939feab4bc4d",
+    "source/Core/Simulation.cs": "f95417fcb7a8b0c3e98a0d6c2a8484b42974c5faa700e222f034262cf822fc82",
+    "source/Core/Brain.cs": "967c19d9998b369f4c679543e0eba5a3e71115fd6add3c2450741168b23d60fa",
+    "source/Archive/WorldStore.cs": "724ba7797f54661fe85ffc3d179729ac584654cae3893dbf0541d3a0c909522a",
+    "source/Archive/TimelineArchive.cs": "8b24043c7289a8229a7224bfc31ffec9b72652fc60b51b892eb94233fc051184",
+    "source/Archive/TimelineSession.cs": "f96b68d271111505647b7bd3fd71a08481b07662eb9bca5e6970712ee21fc037"
+  }
+}

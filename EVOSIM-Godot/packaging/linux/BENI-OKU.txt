@@ -1,0 +1,20 @@
+EVOSIM · Yaşayan Orman — Linux x86_64 önizleme, 25 Ekim 2026
+
+Başlatmak için EVOSIM.x86_64 dosyasını açın. Tüm klasör birlikte taşınmalıdır.
+Godot editörü, .NET SDK, Python, internet veya hesap gerekmez.
+Vulkan destekli güncel ekran kartı sürücüsü ve masaüstü Linux gereklidir.
+
+Kayıtlar: ~/.local/share/EVOSIM-Forest-v2/worlds
+Menü > Eski dünyayı aktar: özgün .evoworld kaydını seçin.
+Kaynak değişmez; yaşayan orman geçmişi kaynak kaydın son gününden başlar.
+Silinen dünyalar menüdeki Silinenler bölümünden geri alınabilir.
+
+Bu bir önizlemedir. 20× bir hedef hızdır; gerçekleşen hızın bilgisi için
+hız düğmesinin üzerine gelin. Nüfusun sürekli yaşaması garanti edilmez.
+Üç tohumla 10'ar yıllık sert kuraklık denemesinde hayvan nüfusu tükenmiştir;
+orman ve kayıt sistemi çalışmayı sürdürmüştür. Bu sonuç araştırılmaktadır.
+
+Geliştirme araçları olmadan aynı bilgisayarda temiz kullanıcı diziniyle
+açılış test edildi. Başka Linux dağıtımları, Windows ve macOS üzerinde
+bu paket doğrulanmadı. Üçüncü taraf lisansları licenses/ dizinindedir.
+Görsel varlıklar EVOSIM için üretilmiştir; Terra Nil oyun varlıkları içermez.

@@ -1,0 +1,22 @@
+[
+  {
+    "size": 128,
+    "founders": 78,
+    "ms": 1968.0634,
+    "hash": "a6c4baa5b52268219a888e55ec5cd3ed2de3f4df58f99d613b458fae14acb80a",
+    "living": 78,
+    "births": 6,
+    "deaths": 6,
+    "trees": 355
+  },
+  {
+    "size": 256,
+    "founders": 500,
+    "ms": 5072.6753,
+    "hash": "21ffdaf989b4f82ee18add909ef58b8c34404838f44b9f2ef6dcc8c0eca10dbf",
+    "living": 452,
+    "births": 35,
+    "deaths": 83,
+    "trees": 390
+  }
+]

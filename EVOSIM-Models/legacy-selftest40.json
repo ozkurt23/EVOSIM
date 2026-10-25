@@ -1,0 +1,12 @@
+{
+  "passed": true,
+  "checks": {
+    "historical_origin_exact": true,
+    "source_unchanged": true,
+    "head_still_exact": true,
+    "overwrite_rejected": true,
+    "future_rejected": true,
+    "before_origin_rejected": true,
+    "manifest_written": true
+  }
+}

@@ -9,7 +9,7 @@ namespace EvoSim.Observer;
 public static class ObservationExporter
 {
     public static string Write(World world, string directory, long headTick, long earliestTick,
-        string? sourceWorldId = null, string? worldName = null)
+        string? sourceWorldId = null, string? worldName = null, string? coreFingerprint = null)
     {
         if (earliestTick > world.Tick || headTick < world.Tick || earliestTick < 0)
             throw new ArgumentException("Görüntülenen an geçmiş aralığında olmalı.");
@@ -25,7 +25,7 @@ public static class ObservationExporter
                 displayCalendar = new { daysPerYear = 365, daysPerSimulationSecond = 1 },
                 note = "Gözlem anı raporu; devam ettirilebilir dünya kaydı veya sürekli birey geçmişi değildir.",
                 sourceWorldId, worldName, createdAtUtc = DateTime.UtcNow,
-                coreSha256 = Convert.ToHexStringLower(SHA256.HashData(File.ReadAllBytes(typeof(World).Assembly.Location))),
+                coreSha256 = coreFingerprint ?? Convert.ToHexStringLower(SHA256.HashData(File.ReadAllBytes(typeof(World).Assembly.Location))),
                 viewTick = world.Tick, headTick, earliestTick, historyPreview = world.Tick < headTick,
                 seed = world.Seed, config = world.Config, tick = world.Tick, time = world.Time,
                 drought = world.Drought, living = world.Living, births = world.Births, deaths = world.Deaths,

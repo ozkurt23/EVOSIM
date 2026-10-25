@@ -1,0 +1,22 @@
+{
+  "passed": true,
+  "checks": {
+    "implicit_upgrade_rejected": true,
+    "explicit_import_keeps_tick_and_population": true,
+    "import_creates_forest_founders": true,
+    "v1_source_state_unchanged": true,
+    "composite_roundtrip_exact": true,
+    "v1_rejects_v2_checkpoint": true,
+    "composite_future_replay_exact": true,
+    "corrupted_forest_envelope_rejected": true,
+    "truncated_envelope_rejected": true,
+    "actual_decay_deposits_only_lost_mass": true,
+    "consumed_corpse_no_double_nutrients": true,
+    "expiry_residual_once": true,
+    "river_corpse_no_land_deposit": true,
+    "daily_tick_cadence": true,
+    "desynchronized_save_rejected": true,
+    "forest_settings_roundtrip": true
+  },
+  "scope": "Experimental v2 checkpoints and actual corpse loss hook. Fruit, obstacles and Godot remain unintegrated."
+}

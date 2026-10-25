@@ -1,0 +1,34 @@
+{
+  "deer_body": {
+    "vertices": 362,
+    "polygons": 360
+  },
+  "deer_head": {
+    "vertices": 358,
+    "polygons": 585
+  },
+  "deer_leg": {
+    "vertices": 70,
+    "polygons": 98
+  },
+  "deer_tail": {
+    "vertices": 28,
+    "polygons": 18
+  },
+  "wolf_body": {
+    "vertices": 362,
+    "polygons": 360
+  },
+  "wolf_head": {
+    "vertices": 204,
+    "polygons": 359
+  },
+  "wolf_leg": {
+    "vertices": 70,
+    "polygons": 98
+  },
+  "wolf_tail": {
+    "vertices": 28,
+    "polygons": 18
+  }
+}

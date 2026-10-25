@@ -13,3 +13,10 @@
 **/observations/
 **/worlds/
 .DS_Store
+
+**/.godot/
+EVOSIM-Godot-Forest/
+EVOSIM-Linux/
+**/previews/
+!EVOSIM-Models/v1/bin/
+!EVOSIM-Models/v1/bin/EvoSim.Core.dll

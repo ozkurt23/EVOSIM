@@ -1,0 +1,8 @@
+{
+  "creature_id": 20,
+  "end_tick": 219,
+  "frames": 60,
+  "source": "Actual Core simulation and Godot viewport",
+  "start_tick": 60,
+  "synthetic": false
+}

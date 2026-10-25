@@ -1,0 +1,12 @@
+{
+  "observations49": true,
+  "comparison49": true,
+  "forest-host49": true,
+  "batch-rig49": true,
+  "locomotion-checks49": true,
+  "ui-checks49": true,
+  "package-smoke49": true,
+  "controlled_same_biology": true,
+  "log_errors": [],
+  "passed": true
+}

@@ -1,0 +1,23 @@
+[
+  {
+    "count": 300,
+    "ms": 2223.0583,
+    "hash": "94A67DA3E0E8A00F77BBA450100E666450C48ECB8E6842DFA50B8E5D41AC2403",
+    "trees": 454,
+    "seeds": 1238
+  },
+  {
+    "count": 1200,
+    "ms": 13709.8527,
+    "hash": "717611667A97575C89F85BCDD146F1A6B43AC6B00DF66A9278A9CE51DD6DD607",
+    "trees": 740,
+    "seeds": 3727
+  },
+  {
+    "count": 3000,
+    "ms": 42917.8735,
+    "hash": "B8A58F9A3D3001403FBBDF2ECD098EFAA9D170407E6B6E0529B8094B814C724B",
+    "trees": 817,
+    "seeds": 7360
+  }
+]

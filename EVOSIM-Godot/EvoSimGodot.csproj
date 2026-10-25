@@ -1,0 +1,17 @@
+<Project Sdk="Godot.NET.Sdk/4.7.2">
+<PropertyGroup><Optimize>true</Optimize><TargetFramework>net10.0</TargetFramework><Nullable>annotations</Nullable><ImplicitUsings>enable</ImplicitUsings><EnableDynamicLoading>true</EnableDynamicLoading><RootNamespace>EvoSimGodot</RootNamespace></PropertyGroup>
+<ItemGroup><ProjectReference Include="../EVOSIM/src/EvoSim.Core/EvoSim.Core.csproj" AdditionalProperties="Configuration=Release" /></ItemGroup>
+<ItemGroup>
+<Compile Include="../EVOSIM/src/EvoSim.Observer/ObservationExporter.cs" Link="Shared/ObservationExporter.cs" />
+<Compile Include="../EVOSIM/src/EvoSim.Observer/LifeTraceJob.cs" Link="Shared/LifeTraceJob.cs" />
+<Compile Include="../EVOSIM/src/EvoSim.Observer/BackgroundLifeTrace.cs" Link="Shared/BackgroundLifeTrace.cs" />
+<Compile Include="../EVOSIM/src/EvoSim.Observer/PopulationInsights.cs" Link="Shared/PopulationInsights.cs" />
+<Compile Include="../EVOSIM/src/EvoSim.Observer/PopulationHealth.cs" Link="Shared/PopulationHealth.cs" />
+<Compile Include="../EVOSIM/src/EvoSim.Observer/WorldStore.cs" Link="Shared/WorldStore.cs" />
+<Compile Include="../EVOSIM/src/EvoSim.Observer/TimelineSession.cs" Link="Shared/TimelineSession.cs" />
+<Compile Include="../EVOSIM/src/EvoSim.Observer/TimelineArchive.cs" Link="Shared/TimelineArchive.cs" />
+<Compile Include="../EVOSIM/src/EvoSim.Observer/WorldCalendar.cs" Link="Shared/WorldCalendar.cs" />
+<Compile Include="../EVOSIM/src/EvoSim.Observer/SettingHelp.cs" Link="Shared/SettingHelp.cs" />
+</ItemGroup>
+<ItemGroup><EmbeddedResource Include="../EVOSIM/src/EvoSim.Core/bin/Release/netstandard2.1/EvoSim.Core.dll" LogicalName="EvoSim.Core.fingerprint.dll" /></ItemGroup>
+</Project>

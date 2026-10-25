@@ -1,0 +1,62 @@
+{
+  "passed": true,
+  "checks": {
+    "roundtrip_exact": true,
+    "future_replay_exact": true,
+    "old_age_death": true,
+    "dead_no_fruit": true,
+    "dead_trunk_expires": true,
+    "immortal_in_good_water": true,
+    "immortal_still_drought_vulnerable": true,
+    "rain_no_resurrection": true,
+    "soil_saturates": true,
+    "half_life": true,
+    "corpse_without_seed_no_tree": true,
+    "water_rejects_deposit_and_seed": true,
+    "constructor_owns_map": true,
+    "seed_can_germinate": true,
+    "seedling_no_instant_fruit": true,
+    "occupied_cell_not_planted": true,
+    "seed_bank_expires": true,
+    "truncated_rejected": true,
+    "unknown_version_rejected": true,
+    "missing_rng_rejected": true,
+    "negative_soil_rejected": true,
+    "duplicate_tree_id_rejected": true,
+    "invalid_input_atomic": true,
+    "bounded_100_years_42": true,
+    "spacing_preserved_42": true,
+    "bounded_100_years_73": true,
+    "spacing_preserved_73": true,
+    "bounded_100_years_123": true,
+    "spacing_preserved_123": true
+  },
+  "centuryFixtures": [
+    {
+      "seed": 42,
+      "peak": 15,
+      "remaining": 11,
+      "seeds": 16,
+      "soil": 0.9536335180900583,
+      "hash": "C96718FB1363A25D5D367BAD801435D53BCFDFC1FA28F69353C8363C30CC1C31"
+    },
+    {
+      "seed": 73,
+      "peak": 15,
+      "remaining": 10,
+      "seeds": 16,
+      "soil": 0.9536335180900583,
+      "hash": "7A9CA2D83948CD3ACEF5EB70760566CEF0178DCB8055C9D916D16E67C9095EC7"
+    },
+    {
+      "seed": 123,
+      "peak": 16,
+      "remaining": 13,
+      "seeds": 14,
+      "soil": 0.9536335180900583,
+      "hash": "63FA935D307F0362FB8A4184D1324CDD5AC4606209251BF4CDF4B93DD78B51C5"
+    }
+  ],
+  "elapsedMs": 510.3262,
+  "scope": "Isolated 8x8 ecology fixtures, not integrated animal ecosystem or production-map performance."
+}

@@ -1,0 +1,14 @@
+{
+  "founder_count": true,
+  "founder_overlay": true,
+  "history_has_flows": true,
+  "map_density_total": true,
+  "map_empty_mode": true,
+  "missing_ancestor_empty": true,
+  "observation_read_only": true,
+  "passed": true,
+  "read_only": true,
+  "region_counts": true,
+  "region_panel": true,
+  "success_counts": true
+}

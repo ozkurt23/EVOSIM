@@ -1,0 +1,32 @@
+{
+  "agents": 19,
+  "baseline": false,
+  "frames": 480,
+  "hash": "635171377bc932b2343428ef2cc1d6ee2a012d3e9d04bed8beeb93618f6dfebb",
+  "median_frame_ms": 27.899,
+  "median_script_ms": 19.551,
+  "p95_frame_ms": 60.478,
+  "stage_medians": {
+    "advance": 12.613,
+    "agents": 4.206,
+    "rest": 0.402
+  },
+  "stats": {
+    "births": 55,
+    "carnivores": 17,
+    "climate_commands": 2,
+    "days": 199.95,
+    "deaths": 366,
+    "drought": false,
+    "effective_speed": 20.0000000968575,
+    "herbivores": 172,
+    "mean_energy": 33.3964793598003,
+    "mean_water": 33.6271652494158,
+    "pending": 0.0499970205129642,
+    "rain": false,
+    "scenario": "normal",
+    "tick": 3999,
+    "water_level": 0.436000049114227
+  },
+  "tick": 3999
+}

@@ -1,0 +1,76 @@
+{
+  "scope": "100 years, seed42 generated 128x128 terrain; isolated forest, no animal population claim",
+  "checks": {
+    "bounded": true,
+    "renewal": true,
+    "finiteSoil": true,
+    "roundtrip": true
+  },
+  "peak": 848,
+  "min": 300,
+  "births": 10494,
+  "rows": [
+    {
+      "year": 10,
+      "trees": 424,
+      "living": 424,
+      "seeds": 169
+    },
+    {
+      "year": 20,
+      "trees": 625,
+      "living": 625,
+      "seeds": 473
+    },
+    {
+      "year": 30,
+      "trees": 722,
+      "living": 682,
+      "seeds": 680
+    },
+    {
+      "year": 40,
+      "trees": 727,
+      "living": 727,
+      "seeds": 835
+    },
+    {
+      "year": 50,
+      "trees": 783,
+      "living": 783,
+      "seeds": 892
+    },
+    {
+      "year": 60,
+      "trees": 788,
+      "living": 786,
+      "seeds": 816
+    },
+    {
+      "year": 70,
+      "trees": 663,
+      "living": 663,
+      "seeds": 499
+    },
+    {
+      "year": 80,
+      "trees": 627,
+      "living": 576,
+      "seeds": 445
+    },
+    {
+      "year": 90,
+      "trees": 646,
+      "living": 646,
+      "seeds": 562
+    },
+    {
+      "year": 100,
+      "trees": 733,
+      "living": 733,
+      "seeds": 729
+    }
+  ],
+  "hash": "2BCE16030BD86C12577C9B1D6AA50545FE350BF3F1C06E227B2FA03980EF86C9",
+  "milliseconds": 13654.0102
+}

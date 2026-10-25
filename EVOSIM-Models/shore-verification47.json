@@ -1,0 +1,12 @@
+{
+  "passed": true,
+  "queries": 60000,
+  "checks": {
+    "initial_128": true,
+    "removed_trunks_128": true,
+    "restored_128": true,
+    "initial_256": true,
+    "removed_trunks_256": true,
+    "restored_256": true
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "checks": {
+    "backward_gait": true,
+    "ground_contact": true,
+    "paused_exact": true,
+    "planted_feet": true,
+    "reachable_endpoint": true,
+    "slope_contact": true,
+    "stance_samples": true,
+    "stop_settles": true,
+    "swimming_raises_feet": true,
+    "turn_finite": true,
+    "unreachable_lower_fixed": true,
+    "unreachable_upper_fixed": true
+  },
+  "ground_error": 0.0000000262260436978412,
+  "max_slip": 0.0000000596046447753906,
+  "passed": true,
+  "planted_samples": 487,
+  "slope_error": 0.0000000452995300437298
+}

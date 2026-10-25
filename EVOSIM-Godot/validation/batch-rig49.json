@@ -1,0 +1,9 @@
+{
+  "herbivore_no_individual_geometry": true,
+  "herbivore_poses_exact": true,
+  "herbivore_three_batches": true,
+  "passed": true,
+  "predator_no_individual_geometry": true,
+  "predator_poses_exact": true,
+  "predator_three_batches": true
+}

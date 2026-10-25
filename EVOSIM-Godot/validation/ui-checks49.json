@@ -1,0 +1,24 @@
+{
+  "checks": {
+    "create_large_map": true,
+    "create_other_seed": true,
+    "create_small_after_large": true,
+    "front_selection": true,
+    "graph_retained": true,
+    "immortal_preset": true,
+    "import_filter": true,
+    "large_region": true,
+    "many_panels_inside": true,
+    "menu_pauses": true,
+    "minimap_visible": true,
+    "nine_panels": true,
+    "no_fake_history": true,
+    "reaches_distant_region": true,
+    "rebuild_clears_panels": true,
+    "renderer_preserves_state": true,
+    "round_robin": true,
+    "settings_count": true,
+    "small_origin_reset": true
+  },
+  "passed": true
+}
